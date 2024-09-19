@@ -4,15 +4,17 @@
 Este projeto consiste em uma coleção de exercícios que demonstram operações básicas com matrizes utilizando a linguagem **Portugol**. As operações incluem a criação de matrizes, soma de elementos, soma de matrizes, multiplicação de matrizes e a identificação de valores máximos em linhas de uma matriz. O objetivo é auxiliar no entendimento de como manipular matrizes no contexto de programação.
 
 ## Índice
+- [Instalação](#instalação)
+- [Como Usar](#como-usar)
+- [Funcionalidades](#funcionalidades)
+
+  
 - [Criação e Exibição de Matriz](#criação-e-exibição-de-matriz)
 - [Soma dos Elementos de uma Matriz](#soma-dos-elementos-de-uma-matriz)
 - [Soma de Duas Matrizes](#soma-de-duas-matrizes)
 - [Multiplicação de Matrizes](#multiplicação-de-matrizes)
 - [Maior Valor em Cada Linha](#maior-valor-em-cada-linha)
 
-- [Instalação](#instalação)
-- [Como Usar](#como-usar)
-- [Funcionalidades](#funcionalidades)
 
 ## Instalação 🌀
 1. Baixe e instale o **Visualg** ou qualquer outro interpretador de **Portugol**.
